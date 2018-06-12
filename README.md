@@ -1,6 +1,6 @@
 # Race simulation
 
-This race simulation was written in java and only uses the join method from Threads class.
+This race simulation was written in java and only uses the join method from the Thread class.
 
 There are three obstacles: 
 1. Forest: Each racer will search for a map in the forest. 
