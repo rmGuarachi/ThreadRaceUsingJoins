@@ -1,8 +1,9 @@
 # Race simulation
+
 There are three obstacles: 
-1. Forest
-2. Mountain
-3. River
+1. Forest: Each racer will search for a map in the forest. 
+2. Mountain: There is only one path through the forest (meaning only one racer can go through the path).
+3. River: Each racer has to swim over the river.
 
 All racers will rest before the race and in between obstacles.
 The race sequence will be the following:
@@ -13,4 +14,4 @@ The race sequence will be the following:
 5. Rest
 6. River
 
-At the end of the race, the judge will display the racers' total time to finish race. 
+At the end of the race, the judge will display the total time it took for the racer to finish the race. 
