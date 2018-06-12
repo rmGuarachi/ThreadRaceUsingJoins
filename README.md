@@ -4,7 +4,7 @@ This race simulation was written in java and only uses the join method from the 
 
 There are three obstacles: 
 1. Forest: Each racer will search for a map in a forest. 
-2. Mountain: There is only one path through the forest (meaning only one racer can go through the path).
+2. Mountain: There is only one path through the mountain (meaning only one racer can go through the path).
 3. River: Each racer has to swim over the river.
 
 All racers will rest before the race and in between obstacles.
