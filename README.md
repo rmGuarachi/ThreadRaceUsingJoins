@@ -1,5 +1,7 @@
 # Race simulation
 
+This race simulation was written in java and only uses the join method from Threads class.
+
 There are three obstacles: 
 1. Forest: Each racer will search for a map in the forest. 
 2. Mountain: There is only one path through the forest (meaning only one racer can go through the path).
@@ -14,4 +16,5 @@ The race sequence will be the following:
 5. Rest
 6. River
 
-At the end of the race, the judge will display the total time it took for the racer to finish the race. 
+At the end of the race, the judge will display the total time it took for the racer to finish the race.
+Each racer will wait for its friend to finish the race and will go home together. If the racer's friend has finished the race, the racer will go home alone.
